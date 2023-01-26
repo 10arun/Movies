@@ -1,0 +1,4 @@
+GET http://localhost/movies/
+
+###
+GET http://localhost:3000/movies/46/
